@@ -1,0 +1,24 @@
+{
+ "well_dominated": {
+  "graphs": 198,
+  "ok": 198,
+  "min_ratio_|z|(n-g)": 2.0
+ },
+ "well_totally_dominated": {
+  "graphs": 512,
+  "ok": 512
+ },
+ "average_degree": {
+  "graphs": 2751,
+  "ok": 2751,
+  "strict_improvement": 2726
+ },
+ "uniform_matroids": {
+  "matroids": 209,
+  "ok": 209
+ },
+ "graphic_matroids": {
+  "matroids": 1097,
+  "ok": 1097
+ }
+}

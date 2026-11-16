@@ -1,0 +1,60 @@
+{
+ "simple_binary_matroids": {
+  "objects": 283,
+  "ok": 283,
+  "max_ratio_true_over_bound": 0.5773502691896257
+ },
+ "projective_affine": {
+  "objects": 40,
+  "ok": 40
+ },
+ "graphic": {
+  "objects": 1097,
+  "ok": 1097,
+  "strictly_better_than_rank": 39
+ },
+ "complete_graph_forests": {
+  "objects": 12,
+  "ok": 12,
+  "maxmod": {
+   "3": 0.5774,
+   "4": 0.4028,
+   "5": 0.3078,
+   "6": 0.2482,
+   "7": 0.2075,
+   "8": 0.178,
+   "9": 0.1557,
+   "10": 0.1382,
+   "11": 0.1242,
+   "12": 0.1126,
+   "13": 0.103,
+   "14": 0.0949
+  }
+ },
+ "random_graphs": {
+  "n=12,p=0.3": {
+   "event_freq": 0.9975,
+   "guaranteed": 0.95,
+   "region_holds_on_event": true,
+   "reach": 0.2097
+  },
+  "n=12,p=0.5": {
+   "event_freq": 0.9975,
+   "guaranteed": 0.95,
+   "region_holds_on_event": true,
+   "reach": 0.2725
+  },
+  "n=14,p=0.5": {
+   "event_freq": 0.9975,
+   "guaranteed": 0.95,
+   "region_holds_on_event": true,
+   "reach": 0.2395
+  },
+  "n=14,p=0.7": {
+   "event_freq": 0.9975,
+   "guaranteed": 0.95,
+   "region_holds_on_event": true,
+   "reach": 0.3221
+  }
+ }
+}

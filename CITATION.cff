@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this formalisation, please cite it as below."
+title: "GraphEK: Lean 4 formalisation of shifted Eneström–Kakeya disks for set systems"
+authors:
+  - family-names: Sheikh
+    given-names: Sajad A.
+    affiliation: "Department of Mathematics, University of Kashmir, South Campus, Anantnag, India"
+repository-code: "https://github.com/sajadcosmos/GraphEK"
+license: Apache-2.0
+version: 1.0.0
+date-released: 2026-11-16
+keywords:
+  - Lean 4
+  - Mathlib
+  - independence polynomial
+  - domination polynomial
+  - matroid
+  - Eneström–Kakeya theorem
+  - formal verification
