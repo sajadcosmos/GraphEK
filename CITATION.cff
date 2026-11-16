@@ -5,6 +5,11 @@ authors:
   - family-names: Sheikh
     given-names: Sajad A.
     affiliation: "Department of Mathematics, University of Kashmir, South Campus, Anantnag, India"
+doi: "10.5281/zenodo.24271250"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24271250"
+    description: "Zenodo archive of release v1.0.0"
 repository-code: "https://github.com/sajadcosmos/GraphEK"
 license: Apache-2.0
 version: 1.0.0

@@ -1,5 +1,6 @@
 # GraphEK — Shifted Eneström–Kakeya disks for set systems, formalised in Lean 4
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24271250.svg)](https://doi.org/10.5281/zenodo.24271250)
 [![Lean Action CI](https://github.com/sajadcosmos/GraphEK/actions/workflows/lean_action_ci.yml/badge.svg)](https://github.com/sajadcosmos/GraphEK/actions/workflows/lean_action_ci.yml)
 
 This repository contains the complete Lean 4 formalisation, together with the numerical
@@ -152,8 +153,13 @@ geometries, graphic matroids and uniform matroids. No violation of any theorem o
 
 ## Citation
 
-If you use this code, please cite the paper (reference to be updated on publication) and this
-repository; see [`CITATION.cff`](CITATION.cff).
+If you use this code, please cite the paper (reference to be updated on publication) and the
+archived release:
+
+> S. A. Sheikh, *GraphEK: Lean 4 formalisation of shifted Eneström–Kakeya disks for set systems*,
+> version 1.0.0, Zenodo, 2026. https://doi.org/10.5281/zenodo.24271250
+
+See also [`CITATION.cff`](CITATION.cff).
 
 ## License
 
